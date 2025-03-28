@@ -30,11 +30,12 @@ Este proyecto de Power BI está diseñado para analizar y visualizar datos relac
 
 ## 📸 Capturas de pantalla  
 
-**Análisis de Pedidos**
+# **Análisis de Pedidos**
 
  <img width="485" alt="Dashboard análisis de pedidos" src="https://github.com/user-attachments/assets/2e0749c4-78ee-438d-8a8b-439bd202c825" />
 
- **Análisis de Proveedores**
+
+ # **Análisis de Proveedores**
 
 <img width="570" alt="Dashboard análisis de proveedores" src="https://github.com/user-attachments/assets/d08fcb9b-8629-4a2b-9279-6037d1cec774" />
 
