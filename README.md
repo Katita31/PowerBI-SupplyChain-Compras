@@ -47,5 +47,12 @@ Si deseas mejorar este proyecto, ¡tu ayuda es bienvenida!
 2. Crea una rama con tu feature (`git checkout -b feature/nueva-funcionalidad`).  
 3. Haz commit de tus cambios (`git commit -m 'Añade nueva funcionalidad'`).  
 4. Haz *push* a la rama (`git push origin feature/nueva-funcionalidad`).  
-5. Abre un *Pull Request*.  
+5. Abre un *Pull Request*.
+
+6. ## 📩 Contacto  
+📍 **Santiago, Chile**  
+📧 **kattyacontreras.v@gmail.com**  
+
+[![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![GitHub](https://img.shields.io/badge/-Explora_mis_Proyectos-181717?style=for-the-badge&logo=github)](https://github.com/Katita31)
 
