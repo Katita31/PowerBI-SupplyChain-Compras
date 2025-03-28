@@ -29,8 +29,10 @@ Este proyecto de Power BI está diseñado para analizar y visualizar datos relac
    - Actualiza la conexión de datos si es necesario.  
 
 ## 📸 Capturas de pantalla  
-*(Reemplaza este texto con imágenes reales de tu dashboard)*  
-<!-- Ejemplo: -->
+ 
+<img width="570" alt="Dashboard análisis de proveedores" src="https://github.com/user-attachments/assets/d08fcb9b-8629-4a2b-9279-6037d1cec774" />
+
+
 <!-- ![Dashboard Compras](https://ejemplo.com/ruta-a-tu-imagen.png) -->  
 
 ## 📌 Cómo contribuir  
