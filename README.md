@@ -1,29 +1,43 @@
-# 📊 Análisis de Pedidos y Proveedores con Power BI 🚀  
+# 📊 PowerBI - Supply Chain & Compras  
 
-## 📌 Descripción  
-En este proyecto se analizará la gestión de pedidos y evaluación de proveedores en una empresa ficticia, utilizando **Power BI** para mejorar la toma de decisiones en **Supply Chain y Compras**.  
+**Descripción:**  
+Este proyecto de Power BI está diseñado para analizar y visualizar datos relacionados con la cadena de suministro y el proceso de compras. Proporciona insights clave para la toma de decisiones, optimización de costos y seguimiento de proveedores.  
 
-## 📈 Métricas Clave  
-✔ **Total de Pedidos:** 950  
-✔ **Pedidos Recibidos:** 823 (86.6%)  
-✔ **Pedidos Devueltos:** 96 (10.1%)  
-✔ **Tiempo Promedio de Entrega:** 3 días  
-✔ **Variación Mensual de Pedidos:** +4.40%  
-✔ **Fluctuación de Precios:** $1,644 - $2,544  
+## 🚀 Características principales  
+- **Dashboard interactivo** con métricas clave de compras y supply chain.  
+- **Análisis de gastos** por categoría, proveedor y período.  
+- **Seguimiento de inventario** y niveles de stock.  
+- **Evaluación de proveedores** basada en rendimiento y plazos de entrega.  
+- **Alertas y KPIs** para identificar riesgos y oportunidades.  
 
-## 🛠️ Tecnologías Utilizadas  
-🔹 **Power BI** para visualización de datos.  
-🔹 **DAX** para cálculos avanzados y métricas.  
+## 📦 Datos utilizados  
+- Datos de compras (órdenes, facturas, proveedores).  
+- Niveles de inventario y stock.  
+- Tiempos de entrega y calidad de proveedores.  
 
-## 📂 Contenido del Repositorio  
-📄 `Dashboard.pbix` → Archivo de Power BI con modelo de datos.  
-📂 `Capturas/` → Imágenes de los dashboards.  
-📂 `Data/` → Dataset en formato Excel.  
-📄 `README.md` → Documentación del proyecto.  
+## 🔧 Configuración  
+1. **Requisitos**:  
+   - Power BI Desktop (versión recomendada: última estable).  
+   - Acceso a las fuentes de datos (ej: Excel, SQL, APIs).  
 
-## Contacto  
-💼 https://www.linkedin.com/in/kattyacontrerasv/ 
-📧 Kattyacontreras.v@gmail.com  
+2. **Instalación**:  
+   - Clona este repositorio:  
+     ```bash
+     git clone https://github.com/Katita31/PowerBI-SupplyChain-Compras.git
+     ```
+   - Abre el archivo `.pbix` en Power BI Desktop.  
+   - Actualiza la conexión de datos si es necesario.  
 
----
+## 📸 Capturas de pantalla  
+*(Reemplaza este texto con imágenes reales de tu dashboard)*  
+<!-- Ejemplo: -->
+<!-- ![Dashboard Compras](https://ejemplo.com/ruta-a-tu-imagen.png) -->  
+
+## 📌 Cómo contribuir  
+Si deseas mejorar este proyecto, ¡tu ayuda es bienvenida!  
+1. Haz un *fork* del repositorio.  
+2. Crea una rama con tu feature (`git checkout -b feature/nueva-funcionalidad`).  
+3. Haz commit de tus cambios (`git commit -m 'Añade nueva funcionalidad'`).  
+4. Haz *push* a la rama (`git push origin feature/nueva-funcionalidad`).  
+5. Abre un *Pull Request*.  
 
